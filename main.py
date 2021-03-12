@@ -27,3 +27,4 @@ while zahl != 0:
     zahl = eval(input('Bitte gib eine Zahl größer als 100 zum Verdoppeln ein: '))
 
 print('\nAuf Wiedersehen, ' + name + '!')
+
